@@ -1,0 +1,3 @@
+My project focuses on alternative editing in T. brucei.  This editing results in variation in the location and number of uridines.  I would like to be able to align sequences regardless of the uridines, but reincorporate the uridines once the alignment is completed.
+
+
